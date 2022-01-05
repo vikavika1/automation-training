@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "raFTtNA+iztQLO+R4mCLEX05pQNDrJQBgUuHZ2IPQ+9ghn8eGQZhgyTLDGrGJX6WcjeXDHD2qF55RmuhFccwrw==",
+  "dgSpecHash": "kKY34V5bc+0sytkzqh+pMb4iZKe0ZSAx6HzPOBdHlJWEMglAeYtw75aPfoFTwEcAyc2v66WT5jZrxCIQwihh1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Виктория\\source\\repos\\Task40Nunit\\Task40Nunit\\Task40Nunit.csproj",
+  "projectFilePath": "C:\\Users\\Виктория\\source\\repos\\automation-training\\Task40Nunit\\Task40Nunit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Виктория\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Виктория\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",

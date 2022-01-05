@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Виктория\\source\\repos\\Task40Nunit\\Task40Nunit\\Task40Nunit.csproj": {}
+    "C:\\Users\\Виктория\\source\\repos\\automation-training\\Task40Nunit\\Task40Nunit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Виктория\\source\\repos\\Task40Nunit\\Task40Nunit\\Task40Nunit.csproj": {
+    "C:\\Users\\Виктория\\source\\repos\\automation-training\\Task40Nunit\\Task40Nunit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Виктория\\source\\repos\\Task40Nunit\\Task40Nunit\\Task40Nunit.csproj",
+        "projectUniqueName": "C:\\Users\\Виктория\\source\\repos\\automation-training\\Task40Nunit\\Task40Nunit.csproj",
         "projectName": "Task40Nunit",
-        "projectPath": "C:\\Users\\Виктория\\source\\repos\\Task40Nunit\\Task40Nunit\\Task40Nunit.csproj",
+        "projectPath": "C:\\Users\\Виктория\\source\\repos\\automation-training\\Task40Nunit\\Task40Nunit.csproj",
         "packagesPath": "C:\\Users\\Виктория\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Виктория\\source\\repos\\Task40Nunit\\Task40Nunit\\obj\\",
+        "outputPath": "C:\\Users\\Виктория\\source\\repos\\automation-training\\Task40Nunit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Виктория\\AppData\\Roaming\\NuGet\\NuGet.Config",

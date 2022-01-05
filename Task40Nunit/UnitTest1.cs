@@ -31,11 +31,14 @@ namespace Task40Nunit
             enterForPasButton.Click();
 
             var inputPress = driver.FindElement(By.ClassName("password-input"));
-            Thread.Sleep(1000);
+            Thread.Sleep(3000);
             inputPress.SendKeys("polinka145b");
 
             var secondButton = driver.FindElement(By.ClassName("second-button"));
             secondButton.Click();
+
+            Thread.Sleep(5000);
+            Assert.IsTrue(driver.FindElement(By.CssSelector(".filters-control__filter-text")).Displayed);
 
             driver.Close();
         }
