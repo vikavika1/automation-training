@@ -38,7 +38,7 @@ namespace Task40Nunit
             secondButton.Click();
 
             Thread.Sleep(5000);
-            Assert.IsTrue(driver.FindElement(By.CssSelector(".filters-control__filter-text")).Displayed);
+            Assert.IsTrue(driver.FindElement(By.CssSelector(".filters-control__filter-text")).Displayed, "Element Filter is not displayed");
 
             driver.Close();
         }
